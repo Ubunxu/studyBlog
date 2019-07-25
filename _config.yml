@@ -13,4 +13,4 @@ gems:
   - jekyll-paginate
 markdown: kramdown
 baseurl: /studyBlog1
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
